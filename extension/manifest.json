@@ -6,8 +6,8 @@
     "permissions": ["activeTab", "declarativeContent"],
     "host_permissions": ["http://127.0.0.1:5000/*"],
     
-    "action": {
-        "default_title": "Summarise this video",
+    "browser_action": {
+        "default_title": "noPromo",
         "default_icon": {
             "16": "images/nopromo_icon.png",
             "32": "images/nopromo_icon.png",
