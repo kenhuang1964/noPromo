@@ -1,0 +1,10 @@
+flask
+pytube
+tqdm
+git+https://github.com/m-bain/whisperx.git
+git+https://github.com/openai/whisper.git 
+ffmpeg
+subprocess
+openai
+re
+selenium
