@@ -1,11 +1,8 @@
 import re
+import subprocess
 import pytube
 from pytube import YouTube
-import tqdm
-import ffmpeg
 import whisperx
-import whisper
-import subprocess
 import openai
 import selenium
 from selenium import webdriver
